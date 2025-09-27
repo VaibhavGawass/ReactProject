@@ -1,0 +1,33 @@
+{
+  "name": "project001",
+  "version": "1.0.0",
+  "description": "This is a react Project",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaibhavGawass/ReactProject.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vaibhav Gawas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaibhavGawass/ReactProject/issues"
+  },
+  "homepage": "https://github.com/VaibhavGawass/ReactProject#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
