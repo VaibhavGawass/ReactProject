@@ -44,6 +44,19 @@ const Body = () => {
       <div className="res-container"> 
         <ResturantCard  resName="Meghana Foods" cusine="Biryani, North Indian, Asian" rating="4.5 stars" time="30 mins"/>
         <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+        <ResturantCard  resName="KFC" cusine="Chiken wings,kebab" rating="4.3 stars" time="33 mins"/>
+
         
       </div>
     </div>
